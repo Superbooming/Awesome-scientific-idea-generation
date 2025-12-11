@@ -48,15 +48,15 @@ A curated list of papers on LLM-driven scientific idea generation.
 |    Arxiv   |   17 Apr 2025   |    Sparks of science: Hypothesis generation using structured paper data   |
 |   Arxiv    |   23 May 2025   |    MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback   |
 |   Arxiv    |   24 May 2025   |   AI-Researcher: Autonomous Scientific Innovation    |
-|   SIGIR 2025    |  13 July 2025    |   DeepReport: An AI-assisted Idea Generation System for Scientific Research    |
+|   SIGIR 2025    |  13 Jul 2025    |   DeepReport: An AI-assisted Idea Generation System for Scientific Research    |
 |   Arxiv    |   17 Mar 2025   |   Zochi technical report    |
 |    SIGDIAL 2025   |   11 Jul 2025   |    Exploring the Design of Multi-Agent LLM Dialogues for Research Ideation   |
 |   Arxiv    |   17 Oct 2025   |   Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation    |
 |   ACL 2024    |   23 May 2023   |    Scimon: Scientific inspiration machines optimized for novelty   |
 |   EMNLP 2025    |   29 May 2025   |    SafeScientist: Enhancing AI Scientist Safety for Risk-Aware Scientific Discovery   |
 |   Arxiv    |  6 Nov 2025    |   Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper    |
-|   BioRxiv    |   November 12, 2024   |    The virtual lab: Ai agents design new sars-cov-2 nanobodies with experimental validation   |
-|       |  July 2025    |   Enhancing research idea generation through combinatorial innovation and multi-agent iterative search strategies.    |
+|   BioRxiv    |   12 Nov 2024   |    The virtual lab: Ai agents design new sars-cov-2 nanobodies with experimental validation   |
+|       |  Jul 2025    |   Enhancing research idea generation through combinatorial innovation and multi-agent iterative search strategies.    |
 |   Arxiv    |   26 Apr 2025   |    Sparks: Multi-agent artificial intelligence model discovers protein design principles   |
 |    Arxiv   |   11 Mar 2025    |   GoAI: Enhancing AI Students' Learning Paths and Idea Generation via Graph of AI Ideas    |
 |   NLP4Science    |   5 Apr 2024   |    Hypothesis generation with large language models   |
@@ -67,22 +67,22 @@ A curated list of papers on LLM-driven scientific idea generation.
 |   Arxiv    |   30 Oct 2024   |  Scipip: An llm-based scientific paper idea proposer     |
 |   NAACL 2025    |   20 Dec 2024   |   Metascientist: A human-ai synergistic framework for automated mechanical metamaterial design    |
 |   Arxiv    |   10 Nov 2024   |   Matpilot: an llm-enabled ai materials scientist under the framework of human-machine collaboration    |
-|       |  20 June 2025    |   Ai for scientific discovery: Automating hypothesis generation    |
+|       |  20 Jun 2025    |   Ai for scientific discovery: Automating hypothesis generation    |
 |       |   27 May 2024   |   Interesting scientific idea generation using knowledge graphs and llms: Evaluations with 100 research group leaders    |
 |   Arxiv    |   24 Mar 2025   |    Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations   |
 |  Machine Learning: Science and Technology     |   18 Mar 2024   |   Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning    |
-|   Machine Learning: Science and Technology    |   31 January 2025   |  Large language models for causal hypothesis generation in science     |
-|  Machine Learning: Science and Technology     |   7 February 2025   |   Discovering emergent connections in quantum physics research via dynamic word embeddings    |
+|   Machine Learning: Science and Technology    |   31 Jan 2025   |  Large language models for causal hypothesis generation in science     |
+|  Machine Learning: Science and Technology     |   7 Feb 2025   |   Discovering emergent connections in quantum physics research via dynamic word embeddings    |
 |   ACL 2025    |  22 Oct 2024    |    Literature meets data: A synergistic approach to hypothesis generation   |
 |   Arxiv    |  27 May 2025    |   Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science    |
 |   Arxiv    |   30 Sep 2025   |    Deepscientist: Advancing frontier-pushing scientific findings progressively   |
 |   Arxiv    |   19 May 2025   |    Robin: A multi-agent system for automating scientific discovery.   |
 |   Arxiv    |   4 Aug 2025   |   Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning    |
-|       |   19 September 2025   |   turbulence. ai: an end-to-end AI Scientist for fluid mechanics    |
+|       |   19 Sep 2025   |   turbulence. ai: an end-to-end AI Scientist for fluid mechanics    |
 |   Arxiv    |   4 Nov 2025   |   Kosmos: An AI Scientist for Autonomous Discovery    |
-|   BioRxiv    |   7 March 2025   |   Dora ai scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation    |
-|   BioRxiv    |     6 June 2025  |   OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery    |
-|   BioRxiv    |   23 July 2025   |   AI becomes a masterbrain scientist    |
+|   BioRxiv    |   7 Mar 2025   |   Dora ai scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation    |
+|   BioRxiv    |     6 Jun 2025  |   OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery    |
+|   BioRxiv    |   23 Jul 2025   |   AI becomes a masterbrain scientist    |
 
 ---
 
