@@ -18,7 +18,7 @@ A curated list of papers on LLM-driven scientific idea generation.
 |:-----:|:----:|-------| 
 |  Arxiv     |   17 Nov 2024   |   Aigs: Generating science from ai-powered automated falsification    |
 |   ICML 2024    |   16 May 2024   |    Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery   |
-|   Arxiv    |   17 Oct 2024   |   Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents    |
+|   EMNLP 2025    |   17 Oct 2024   |   Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents    |
 |   Arxiv    |   23 Sep 2024   |   Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination    |
 |   Arxiv    |   26 Aug 2024   |    Mlr-copilot: Autonomous machine learning research based on large language models agents   |
 |   Arxiv    |   26 Feb 2025   |    Towards an AI co-scientist   |
